@@ -1,0 +1,317 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"text-",
+				"text-bold\t(wc_style.css)"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin-top\t(wc_style.css)"
+			],
+			[
+				"View",
+				"ViewLocator"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"onm",
+				"onmouseout\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "Hello, \n\nI am a full stack software developer at a fin-tech startup in London and I also help the Google Campus Women Community to empower more women in the tech industry. I though in approaching you to connect with some other software developers.\n\nKind Regards, \nBrenda\n\nife\npasaporte\nsilla de ruedas en la compra\nabordaje preferencial\n\narriba del avion medicamento \nllamar para comida especial\ntomar el vuelo mas corto \n\ncompra de boletos asignar comida especial\npuntos premia 015551334000 4 \n015515194040 \n\n\ncuenta club premier\n810802710\n\nclub familiar hortensia julia neria tenorio 681775540\n1. contraseña 6 a 8 digitos\n2. nip clave de telefono\n\ntraxzas@hotmail.com 681775573\n\n\n\n\n\n\n\n\n",
+			"settings":
+			{
+				"buffer_size": 688,
+				"line_ending": "Unix",
+				"name": "Hello,"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "Package Control: insta",
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 503.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Bren/GitRepos/particle"
+	],
+	"file_history":
+	[
+		"/Users/Bren/GitRepos/particle/_config.yml",
+		"/Users/Bren/GitRepos/particle/_includes/projects.html",
+		"/Users/Bren/Library/Application Support/Sublime Text 3/Packages/Jekyll/Jekyll.sublime-settings",
+		"/Users/Bren/GitRepos/particle/_site/index.html",
+		"/Users/Bren/Library/Application Support/Sublime Text 3/Packages/sublime-markdown-extended/Syntaxes/Markdown Extended.tmLanguage",
+		"/Users/Bren/GitRepos/particle/_includes/header.html",
+		"/Users/Bren/pld/_config.yml",
+		"/Users/Bren/Library/Application Support/Sublime Text 3/Packages/User/Jekyll.sublime-settings",
+		"/Users/Bren/pld/_site/index.html",
+		"/Users/Bren/pld/_site/about/index.html",
+		"/Users/Bren/Desktop/1. landing page",
+		"/Users/Bren/Desktop/womenCommunity/womenCommunity/css/wc_style.css",
+		"/Users/Bren/Desktop/womenCommunity/womenCommunity/js/main.js",
+		"/Users/Bren/Desktop/womenCommunity/index.html",
+		"/Volumes/Expansion Drive/2016/pld/website/index.html",
+		"/Users/Bren/Desktop/womanCommunity/womenCommunity/css/wc_style.css",
+		"/Users/Bren/Desktop/womanCommunity/index.html",
+		"/Users/Bren/Angular2-GettingStarted/APM - Final/app/shared/star.component.html",
+		"/Users/Bren/Angular2-GettingStarted/APM - Final/app/products/product.service.ts",
+		"/Users/Bren/Angular2-GettingStarted/APM - Final/app/products/product.module.ts",
+		"/Users/Bren/Angular2-GettingStarted/APM - Final/app/products/product-filter.pipe.ts",
+		"/Users/Bren/Angular2-GettingStarted/APM - Final/app/products/product.ts",
+		"/Users/Bren/Angular2-GettingStarted/APM - Final/app/products/product-list.component.html",
+		"/Users/Bren/Angular2-GettingStarted/APM - Final/app/products/product-list.component.ts",
+		"/Users/Bren/Desktop/Google Drive OAuth Client",
+		"/Volumes/Expansion Drive/2016/pld/website/indexEnglish.html",
+		"/Volumes/Expansion Drive/2016/pld/website/pld/js/bootstrap.js",
+		"/private/var/folders/4z/8_hff4xd0p14xv7yb5f1xr980000gq/T/fz3temp-2/wp-config.php",
+		"/Users/Bren/Desktop/php_info.php",
+		"/Volumes/KINGSTON/pld/itR-web-bootstrap-Hotel/index.html",
+		"/Users/Bren/Demos/CommunityApp/src/views/shell.html",
+		"/Users/Bren/Demos/CommunityApp/src/views/events.html",
+		"/Users/Bren/Demos/CommunityApp/src/main.js",
+		"/Users/Bren/Demos/CommunityApp/src/event.html",
+		"/Users/Bren/Demos/CommunityApp/src/events.js",
+		"/Users/Bren/Demos/CommunityApp/src/events.html",
+		"/Users/Bren/Demos/CommunityApp/src/shell.html",
+		"/Users/Bren/Demos/CommunityApp/src/shell.js",
+		"/Users/Bren/Demos/CommunityApp/src/event.js",
+		"/Users/Bren/Demos/CommunityApp/index.html",
+		"/Users/Bren/Demos/CommunityApp/src/sponsors.js",
+		"/Users/Bren/Demos/CommunityApp/src/sponsors.html",
+		"/Users/Bren/Demos/CommunityApp/config.js",
+		"/Users/Bren/Demos/CommunityApp/server.js",
+		"/Users/Bren/Demos/HelloAurelia/src/hello.js",
+		"/Users/Bren/Demos/HelloAurelia/src/hello.html",
+		"/Users/Bren/Demos/HelloAurelia/src/main.js",
+		"/Users/Bren/Demos/HelloAurelia/index.html",
+		"/Users/Bren/Demos/CommunityApp/style.css",
+		"/Users/Bren/Demos/HelloAurelia/server.js",
+		"/Users/Bren/Demos/HelloAurelia/config.js",
+		"/Volumes/KINGSTON/Operations_files/site.css",
+		"/Volumes/KINGSTON/Operations.html",
+		"/Volumes/KINGSTON/Content/css/site.css"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"home",
+			"solid-wc-background",
+			"pld",
+			"habitacion",
+			"habitaciones",
+			"hotel",
+			"home",
+			"hotel",
+			"habitacion",
+			"habitacion-imagen",
+			"title",
+			"spacer-small",
+			"pld",
+			"womenCommunity",
+			"pld",
+			"LinkCustomers",
+			"alert",
+			"hover",
+			"LinkCustomers"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 688,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								669,
+								669
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Hello,",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "particle.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 147.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
